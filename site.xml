@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><site>
+        <description url="http://test">
+                This site contains the packages for Novell Identity Manager
+        </description>        
+<feature id="UKCAttrCpy.feature" url="features/UKCAttrCpy.feature_0.0.1.20160128150205.jar" version="0.0.1.20160128150205"/>
+	<feature id="UKCAttrCpy.feature" url="features/UKCAttrCpy.feature_0.0.2.20160519003021.jar" version="0.0.2.20160519003021"/>
+	<feature id="UKCMRGDRVRBS.feature" url="features/UKCMRGDRVRBS.feature_0.0.1.20160128150141.jar" version="0.0.1.20160128150141"/>
+	<feature id="UKCNADDRNSTG.feature" url="features/UKCNADDRNSTG.feature_0.0.1.20160224134843.jar" version="0.0.1.20160224134843"/>
+	<feature id="UKCNADRVLGTM.feature" url="features/UKCNADRVLGTM.feature_0.0.1.20160224134938.jar" version="0.0.1.20160224134938"/>
+	<feature id="UKCNCOMMCMNP.feature" url="features/UKCNCOMMCMNP.feature_0.0.1.20160224134903.jar" version="0.0.1.20160224134903"/>
+	<feature id="UKCNDSLBUTLF.feature" url="features/UKCNDSLBUTLF.feature_0.0.1.20160224134914.jar" version="0.0.1.20160224134914"/>
+	<feature id="UKCNLIBRUTLS.feature" url="features/UKCNLIBRUTLS.feature_0.0.1.20160520011811.jar" version="0.0.1.20160520011811"/>
+	<feature id="UKCNNULBASE.feature" url="features/UKCNNULBASE.feature_0.0.1.20160504145136.jar" version="0.0.1.20160504145136"/>
+	<feature id="UKCNNULBASE.feature" url="features/UKCNNULBASE.feature_0.0.1.20160628095109.jar" version="0.0.1.20160628095109"/>
+	<feature id="UKCNNULLNMSY.feature" url="features/UKCNNULLNMSY.feature_0.0.1.20160224134924.jar" version="0.0.1.20160224134924"/>
+	<feature id="UKCNNULLSUNC.feature" url="features/UKCNNULLSUNC.feature_0.0.1.20160224134854.jar" version="0.0.1.20160224134854"/>
+	<feature id="UKCNNULLSUNC.feature" url="features/UKCNNULLSUNC.feature_0.0.1.20160302173853.jar" version="0.0.1.20160302173853"/>
+	<feature id="UKCNNULLSUNC.feature" url="features/UKCNNULLSUNC.feature_0.0.2.20160303010218.jar" version="0.0.2.20160303010218"/>
+	<feature id="UKNQALDRVREC.feature" url="features/UKNQALDRVREC.feature_0.0.1.20160520004529.jar" version="0.0.1.20160520004529"/>
+	<feature id="UKNQALLAUTJB.feature" url="features/UKNQALLAUTJB.feature_0.0.1.20160510135445.jar" version="0.0.1.20160510135445"/>
+	<feature id="UKNQALLAUTJB.feature" url="features/UKNQALLAUTJB.feature_0.0.1.20160707181355.jar" version="0.0.1.20160707181355"/>
+	<feature id="UKNQALLDYFLT.feature" url="features/UKNQALLDYFLT.feature_0.0.1.20160520004536.jar" version="0.0.1.20160520004536"/>
+	<feature id="UKNQALLDYFLT.feature" url="features/UKNQALLDYFLT.feature_0.0.1.20160520153401.jar" version="0.0.1.20160520153401"/>
+	<feature id="UKNQALLDYFLT.feature" url="features/UKNQALLDYFLT.feature_0.0.1.20160520164341.jar" version="0.0.1.20160520164341"/>
+	<feature id="UKNQALLDYFLT.feature" url="features/UKNQALLDYFLT.feature_0.0.1.20160523181932.jar" version="0.0.1.20160523181932"/>
+	<feature id="UKNQALLDYFLT.feature" url="features/UKNQALLDYFLT.feature_0.0.1.20160628094559.jar" version="0.0.1.20160628094559"/>
+	<feature id="UKNQALLDYFLT.feature" url="features/UKNQALLDYFLT.feature_0.0.2.20160708162726.jar" version="0.0.2.20160708162726"/>
+	<feature id="UKNQALLDYFLT.feature" url="features/UKNQALLDYFLT.feature_0.0.3.20160711164418.jar" version="0.0.3.20160711164418"/>
+	<feature id="UKNQLIBDRRES.feature" url="features/UKNQLIBDRRES.feature_0.0.1.20160520011735.jar" version="0.0.1.20160520011735"/>
+	<feature id="UKNQLIBDRRES.feature" url="features/UKNQLIBDRRES.feature_0.0.1.20160628165724.jar" version="0.0.1.20160628165724"/>
+	<feature id="UKNQNULDRVRE.feature" url="features/UKNQNULDRVRE.feature_0.0.1.20160520004918.jar" version="0.0.1.20160520004918"/>
+	<feature id="UKNQNULDRVRE.feature" url="features/UKNQNULDRVRE.feature_0.0.1.20160628170303.jar" version="0.0.1.20160628170303"/>
+	<feature id="UKNQNULDRVRE.feature" url="features/UKNQNULDRVRE.feature_0.0.1.20160707203856.jar" version="0.0.1.20160707203856"/>
+	<feature id="UKNQNULDRVRE.feature" url="features/UKNQNULDRVRE.feature_0.0.1.20160707205355.jar" version="0.0.1.20160707205355"/>
+	<feature id="UKNQNULDRVRE.feature" url="features/UKNQNULDRVRE.feature_0.0.2.20160715024404.jar" version="0.0.2.20160715024404"/>
+	<feature id="UKNQNULDRVRE.feature" url="features/UKNQNULDRVRE.feature_0.0.2.20160715112444.jar" version="0.0.2.20160715112444"/>
+	<feature id="UKNQNULDRVRE.feature" url="features/UKNQNULDRVRE.feature_0.0.3.20160721163906.jar" version="0.0.3.20160721163906"/>
+	<feature id="UKNQNULDTWF.feature" url="features/UKNQNULDTWF.feature_0.0.1.20160531132816.jar" version="0.0.1.20160531132816"/>
+	<feature id="UKNQNULDTWF.feature" url="features/UKNQNULDTWF.feature_0.0.2.20160617180300.jar" version="0.0.2.20160617180300"/>
+	<feature id="UKNQNULDTWF.feature" url="features/UKNQNULDTWF.feature_0.0.2.20160628094822.jar" version="0.0.2.20160628094822"/>
+	<feature id="UKNQNULDTWF.feature" url="features/UKNQNULDTWF.feature_0.0.3.20160708162228.jar" version="0.0.3.20160708162228"/>
+	<feature id="UKNQNULLDTRB.feature" url="features/UKNQNULLDTRB.feature_0.0.2.20160520011925.jar" version="0.0.2.20160520011925"/>
+	<feature id="UKNQNULLDTRB.feature" url="features/UKNQNULLDTRB.feature_0.0.3.20160708162907.jar" version="0.0.3.20160708162907"/>
+	<feature id="UKNQNULLDTRB.feature" url="features/UKNQNULLDTRB.feature_0.0.3.20160714112325.jar" version="0.0.3.20160714112325"/>
+	<feature id="UKNQNULLDTRE.feature" url="features/UKNQNULLDTRE.feature_0.0.1.20160510135426.jar" version="0.0.1.20160510135426"/>
+	<feature id="UKNQNULLDTRE.feature" url="features/UKNQNULLDTRE.feature_0.0.2.20160519002631.jar" version="0.0.2.20160519002631"/>
+	<feature id="UKNQNULLDTRE.feature" url="features/UKNQNULLDTRE.feature_0.0.3.20160520004908.jar" version="0.0.3.20160520004908"/>
+	<feature id="UKNQNULLDTRE.feature" url="features/UKNQNULLDTRE.feature_0.0.3.20160520153429.jar" version="0.0.3.20160520153429"/>
+	<feature id="UKNQNULLDTRE.feature" url="features/UKNQNULLDTRE.feature_0.0.4.20160520164142.jar" version="0.0.4.20160520164142"/>
+	<feature id="UKNQNULLDTRE.feature" url="features/UKNQNULLDTRE.feature_0.0.4.20160523181856.jar" version="0.0.4.20160523181856"/>
+	<feature id="UKNQNULLDTRE.feature" url="features/UKNQNULLDTRE.feature_0.0.4.20160531132802.jar" version="0.0.4.20160531132802"/>
+	<feature id="UKNQNULLDTRE.feature" url="features/UKNQNULLDTRE.feature_0.0.5.20160617180204.jar" version="0.0.5.20160617180204"/>
+	<feature id="UKNQNULLDTRE.feature" url="features/UKNQNULLDTRE.feature_0.0.5.20160628094621.jar" version="0.0.5.20160628094621"/>
+	<feature id="UKNQNULLDTRE.feature" url="features/UKNQNULLDTRE.feature_0.0.5.20160708162951.jar" version="0.0.5.20160708162951"/>
+	<feature id="UKNQNULLDTRE.feature" url="features/UKNQNULLDTRE.feature_0.0.6.20160711164336.jar" version="0.0.6.20160711164336"/>
+	<feature id="UKNQNULLDTRE.feature" url="features/UKNQNULLDTRE.feature_0.0.6.20160712152519.jar" version="0.0.6.20160712152519"/>
+	<feature id="UKNQNULLDTRE.feature" url="features/UKNQNULLDTRE.feature_0.0.6.20160714135154.jar" version="0.0.6.20160714135154"/>
+	<feature id="UKNQNULLDTRE.feature" url="features/UKNQNULLDTRE.feature_0.0.7.20160715024424.jar" version="0.0.7.20160715024424"/>
+	<feature id="UKNQNULLDTRE.feature" url="features/UKNQNULLDTRE.feature_0.0.7.20160721155808.jar" version="0.0.7.20160721155808"/>
+	<feature id="UKNQNULRESBA.feature" url="features/UKNQNULRESBA.feature_0.0.1.20160520101042.jar" version="0.0.1.20160520101042"/>
+	<feature id="UKNQNULRESBA.feature" url="features/UKNQNULRESBA.feature_0.0.1.20160707204721.jar" version="0.0.1.20160707204721"/>
+	<feature id="UKNQNULRESBA.feature" url="features/UKNQNULRESBA.feature_0.0.2.20160707205832.jar" version="0.0.2.20160707205832"/>
+	<feature id="UKNQNULRESBA.feature" url="features/UKNQNULRESBA.feature_0.0.2.20160707213944.jar" version="0.0.2.20160707213944"/>
+	<feature id="UKNQNULRESBA.feature" url="features/UKNQNULRESBA.feature_0.0.3.20160707214425.jar" version="0.0.3.20160707214425"/>
+	<feature id="UKNQUSAPDTDL.feature" url="features/UKNQUSAPDTDL.feature_0.0.1.20160531122754.jar" version="0.0.1.20160531122754"/>
+	<feature id="UKNQUSAPDTDL.feature" url="features/UKNQUSAPDTDL.feature_0.0.1.20160628095721.jar" version="0.0.1.20160628095721"/>
+	<feature id="UKNQUSAPDTDL.feature" url="features/UKNQUSAPDTDL.feature_0.0.2.20160708161759.jar" version="0.0.2.20160708161759"/>
+	<feature id="UKNQUSAPDTWF.feature" url="features/UKNQUSAPDTWF.feature_0.0.1.20160531122806.jar" version="0.0.1.20160531122806"/>
+	<feature id="UKNQUSAPDTWF.feature" url="features/UKNQUSAPDTWF.feature_0.0.2.20160617175859.jar" version="0.0.2.20160617175859"/>
+	<feature id="UKNQUSAPDTWF.feature" url="features/UKNQUSAPDTWF.feature_0.0.2.20160628095745.jar" version="0.0.2.20160628095745"/>
+	<feature id="UKNQUSAPDTWF.feature" url="features/UKNQUSAPDTWF.feature_0.0.3.20160708161823.jar" version="0.0.3.20160708161823"/>
+</site>
