@@ -1,0 +1,10 @@
+{
+    "directories": [
+        "plugins",
+        "deprecations",
+        "features"
+    ],
+    "files": [
+        "site.xml"
+    ]
+}
